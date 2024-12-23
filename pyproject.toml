@@ -9,6 +9,7 @@ authors = [
   { name="wojpo", email="ilikeahottodogu@gmail.com" },
 ]
 description = "AI word counter package"
+dependencies = ["google-generativeai"]
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [
